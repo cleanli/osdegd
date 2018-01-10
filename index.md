@@ -1,5 +1,6 @@
 ---
 title: "Main"
+layout: default
 ---
 Download:
 
