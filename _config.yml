@@ -1,1 +1,5 @@
+# Site settings
+title: Longhistory
 theme: jekyll-theme-hacker
+baseurl: "/osdegd"
+url: "http://longhistory.github.io"
